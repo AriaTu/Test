@@ -1,0 +1,19 @@
+# Get familiar with linux
+
+## know commands like `mkdir`, `ls`, `mv`, `cp`, `pwd`, `cd`...
+## install tmux and learn its shortcuts
+## write some simple bash scripts and run (check `how2bash.txt` for help!)
+	1. output 1,2,3,4,5
+	2. output all 17's multipliers from 0 to 1000
+	3. take some number from command, output all its multipliers from 0 to 1000
+		e.g. I run `bash cat.sh 23` in terminal, should be able to see `23, 46, 69...`
+	4. for all numbers from 0 to 100, make a directory for it if it's 5's multiplier, create an empty file if it's not 5's multiplier and put it under previous directory. so 20 directories named as 0,5,10..100. empty files 1,2,3,4 in 0/, 6,7,8,9 in 5/, ...
+## install git, setup to a git repo synced to github (check `how2git.txt` for help!)
+
+
+# Get familiar with python&pytorch
+
+## install anaconda for ubuntu 18.04
+## in anaconda, open a new env and install pytorch for it
+## can try to setup vscode remote to this address
+## follow a pytorch tutorial, train a small neural network https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
