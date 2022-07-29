@@ -1,0 +1,27 @@
+# What's Git
+
+It's a tool we use for version control and team work. By using git, many people can work together on the same project and it's fairly easy to rollback the system to anypoint in history. 
+
+I think the best way to learn it is to watch some intro video on youtube for it and then we can play around with an example repo together. Try to understand the following concepts from google/youtube:
+
++ commit
++ branch
++ master
++ remote repo
++ merge
++ cherry-pick
+
+After some basic tutorials, can google how to setup git on ubuntu 18.04 and create some repo on your github account, clone to here, make a few naive commits and sync to remote. 
+
+And when you have a few commits in branch, try to be familiar with the following commands:
+
+```
+git status
+git log
+git branch
+git checkout
+git reset
+git cherry-pick
+git pull
+...
+```
